@@ -6,7 +6,7 @@ Hi there! I'm **Nehal Marshal Lopes**, a passionate and versatile software devel
 
 ## 🚀 About Me:
 - 🌍 Based in Chicago, IL, I recently graduated with a **Master of Science in Computer Science** from **DePaul University**.
-- 💼 Experienced in developing applications using modern technologies such as **React.js**, **Redux**, **Node.js**, **Swift**, **Kotlin**, and **Go**.
+- 💼 Experienced in developing applications using modern technologies such as **React.js**, **Redux**, **Node.js**, **Swift**, and **Go**.
 - 🔍 Focused on **API integration**, **scalable cloud solutions**, and **CI/CD pipelines**.
 - 🤝 Open to collaborating on exciting projects in **Android/iOS development**, **web development**, and **backend engineering**.
 
@@ -15,18 +15,24 @@ Hi there! I'm **Nehal Marshal Lopes**, a passionate and versatile software devel
 ## 💡 Key Highlights:
 
 ### Notable Projects:
-- **Visual Crossing Weather App (Android):** Real-time weather updates with multithreaded operations, increasing UI responsiveness by **30%**.
-- **Comprehensive Travel Management App (iOS):** A Swift-based app with **MapKit** integration, boosting user engagement by **40%**.
+- **Visual Crossing Weather App (Android):**
+- Developed a location-based weather app in Java using Google Location Services and Visual Crossing API, enabling users to access real-time weather data
+- Implemented RecyclerView for optimized UI, displaying accurate weather details such as temperature, wind speed, and cloud cover
+- **Comprehensive Travel Management App (iOS):**
+- Built a Swift-based travel planning app with MapKit, providing users with real-time navigation and itinerary management
+- Leveraged SwiftUI for an intuitive interface and integrated Combine for real-time data updates
+- **Distributed Job Scheduling System (GO):**
+- Designed a job scheduling system in Go utilizing Goroutines and Channels for efficient concurrent task processing.
 ---
 
 ## 🛠️ Tech Stack:
-- **Languages:** Java, Python, JavaScript, Swift, Go, SQL
-- **Frontend:** React.js, Redux, HTML5, CSS3, Bootstrap, Tailwind CSS
-- **Backend:** Node.js, Gin, RESTful APIs
-- **Mobile Development:** Android Studio, Xcode, SwiftUI, Combine, Jetpack Compose
-- **Tools & Platforms:** Docker, Kubernetes, Jenkins, GitHub, AWS, ServiceNow
-- **Databases:** MySQL, MongoDB, PostgreSQL, Firebase
-
+- **Programming Languages:** Java, JavaScript (ES6+), TypeScript, Swift, Python, Go
+- **Front-End Developmen:** React.js, Redux, SwiftUI, HTML5, CSS3, Bootstrap, JavaScript, UI/UX Design
+- **Back-End Developmen:** Node.js, Express.js, RESTful APIs, PHP, MongoDB, MySQL, Firebase
+- **DevOps:** Jenkins, Docker, Kubernetes, Git, GitHub, AWS (S3, EC2)
+- **Databases:** MongoDB, MySQL, PostgreSQL, Firebase, SQLite
+- **Tools:** Xcode, Android Studio, Visual Studio Code, Postman, Figma, Jira, ServiceNow, Oracle SQL Developer
+- **Software Development Practices:** Agile methodologies, CI/CD pipelines, Code Reviews  
 ---
 
 ## 🌟 Certifications:
