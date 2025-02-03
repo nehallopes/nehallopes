@@ -16,13 +16,13 @@ Hi there! I'm **Nehal Marshal Lopes**, a passionate and versatile software devel
 
 ### Notable Projects:
 - **Visual Crossing Weather App (Android):**
-- Developed a location-based weather app in Java using Google Location Services and Visual Crossing API, enabling users to access real-time weather data
-- Implemented RecyclerView for optimized UI, displaying accurate weather details such as temperature, wind speed, and cloud cover
+  Developed a location-based weather app in Java using Google Location Services and Visual Crossing API, enabling users to access real-time weather data
+  Implemented RecyclerView for optimized UI, displaying accurate weather details such as temperature, wind speed, and cloud cover
 - **Comprehensive Travel Management App (iOS):**
-- Built a Swift-based travel planning app with MapKit, providing users with real-time navigation and itinerary management
-- Leveraged SwiftUI for an intuitive interface and integrated Combine for real-time data updates
+  Built a Swift-based travel planning app with MapKit, providing users with real-time navigation and itinerary management
+  Leveraged SwiftUI for an intuitive interface and integrated Combine for real-time data updates
 - **Distributed Job Scheduling System (GO):**
-- Designed a job scheduling system in Go utilizing Goroutines and Channels for efficient concurrent task processing.
+  Designed a job scheduling system in Go utilizing Goroutines and Channels for efficient concurrent task processing.
 ---
 
 ## 🛠️ Tech Stack:
