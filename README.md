@@ -6,7 +6,7 @@ Hi there! I'm **Nehal Marshal Lopes**, a passionate and versatile software devel
 
 ## 🚀 About Me:
 - 🌍 Based in Chicago, IL, I recently graduated with a **Master of Science in Computer Science** from **DePaul University**.
-- 💼 Experienced in developing applications using modern technologies such as **React.js**, **Redux**, **Node.js**, **Swift**, and **Go**.
+- 💼 Experienced in developing applications using modern technologies such as **React.js**, **Vue.js**, **Node.js**, **Swift**, and **Go**.
 - 🔍 Focused on **API integration**, **scalable cloud solutions**, and **CI/CD pipelines**.
 - 🤝 Open to collaborating on exciting projects in **Android/iOS development**, **web development**, and **backend engineering**.
 
@@ -30,13 +30,13 @@ Hi there! I'm **Nehal Marshal Lopes**, a passionate and versatile software devel
 ---
 
 ## 🛠️ Tech Stack:
-- **Programming Languages:** Java, JavaScript (ES6+), TypeScript, Swift, Python, Go
-- **Front-End Developmen:** React.js, Redux, SwiftUI, HTML5, CSS3, Bootstrap, JavaScript, UI/UX Design
-- **Back-End Developmen:** Node.js, Express.js, RESTful APIs, PHP, MongoDB, MySQL, Firebase
+- **Programming Languages:** Java, JavaScript (ES6+), TypeScript, Swift, Python, Go, C++
+- **Front-End Developmen:** React.js, Vue.js, SwiftUI, HTML5, CSS3, Bootstrap, JavaScript, UI/UX Design
+- **Back-End Developmen:** Node.js, Express.js, RESTful APIs,
 - **DevOps:** Jenkins, Docker, Kubernetes, Git, GitHub, AWS (S3, EC2)
 - **Databases:** MongoDB, MySQL, PostgreSQL, Firebase, SQLite
 - **Tools:** Xcode, Android Studio, Visual Studio Code, Postman, Figma, Jira, ServiceNow, Oracle SQL Developer
-- **Software Development Practices:** Agile methodologies, CI/CD pipelines, Code Reviews  
+- **Software Development Practices:** Agile methodologies, Microservices Architecture, SOLID Principles, CI/CD pipelines, Code Reviews  
 ---
 
 ## 🌟 Certifications:
