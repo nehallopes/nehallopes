@@ -24,9 +24,6 @@ Hi there! I'm **Nehal Marshal Lopes**, a passionate and versatile software devel
 - Built a **Swift-based** travel planning app with **MapKit**, providing users with real-time navigation and itinerary management.  
 - Leveraged **SwiftUI** for an intuitive interface and integrated **Combine** for real-time data updates.
 
-### ⚡ Distributed Job Scheduling System (Go)
-- Designed a job scheduling system in **Go** utilizing **Goroutines** and **Channels** for efficient concurrent task processing.
-
 ---
 
 ## 🛠️ Tech Stack:
