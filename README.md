@@ -6,7 +6,7 @@ Hi there! I'm **Nehal Marshal Lopes**, a passionate and versatile software devel
 
 ## 🚀 About Me:
 - 🌍 Based in Chicago, IL, I recently graduated with a **Master of Science in Computer Science** from **DePaul University**.
-- 💼 Experienced in developing applications using modern technologies such as **React.js**, **Vue.js**, **Node.js**, **Swift**, and **Go**.
+- 💼 Experienced in developing applications using modern technologies such as **React.js**, **Spring Boot**, **Node.js**, **SQL**, and **AWS**.
 - 🔍 Focused on **API integration**, **scalable cloud solutions**, and **CI/CD pipelines**.
 - 🤝 Open to collaborating on exciting projects in **Android/iOS development**, **web development**, and **backend engineering**.
 
