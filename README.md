@@ -27,12 +27,11 @@ Hi there! I'm **Nehal Marshal Lopes**, a passionate and versatile software devel
 ---
 
 ## 🛠️ Tech Stack:
-- **Programming Languages:** Java, JavaScript (ES6+), TypeScript, Swift, Python, Go, C++
-- **Front-End Developmen:** React.js, Vue.js, Angular, SwiftUI, HTML5, CSS3, JavaScript, UI/UX Design
-- **Back-End Developmen:** Node.js, Express.js, RESTful APIs,
-- **DevOps:** Jenkins, Docker, Kubernetes, Git, GitHub, AWS (S3, EC2)
-- **Databases:** MongoDB, MySQL, PostgreSQL, Firebase, SQLite
-- **Tools:** Xcode, Android Studio, Visual Studio Code, Postman, Figma, Jira, ServiceNow, Oracle SQL Developer
+- **Programming Languages:** Java, JavaScript, Python, SQL, Swift, HTML5, CSS3, PHP
+- **Frameworks & Libraries:** Spring Boot, React.js, Node.js, Express.js, Hibernate, Redux, Bootstrap
+- **Cloud & DevOps:** AWS (EC2, RDS), Docker, Kubernetes, CI/CD (Jenkins)
+- **Databases:** Oracle SQL, MySQL, PostgreSQL, MongoDB
+- **Tools:** VS Code, IntelliJ IDEA, Android Studio, Xcode, Oracle SQL Developer, Git, GitHub, Postman, Figma, ServiceNow, Jira, Confluence
 - **Software Development Practices:** Agile methodologies, Microservices Architecture, SOLID Principles, CI/CD pipelines, Code Reviews  
 ---
 
