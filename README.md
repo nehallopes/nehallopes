@@ -27,7 +27,7 @@ Hi there! I'm **Nehal Marshal Lopes**, a passionate and versatile software devel
 ---
 
 ## 🛠️ Tech Stack:
-- **Programming Languages:** Java, JavaScript, Python, SQL, Swift, HTML5, CSS3, PHP
+- **Programming Languages:** Java, JavaScript, Python, SQL, Swift, HTML, CSS, PHP
 - **Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, Bootstrap
 - **Cloud & DevOps:** AWS (EC2, RDS), Docker, CI/CD (Jenkins)
 - **Databases:** Oracle SQL, MySQL, PostgreSQL, MongoDB
