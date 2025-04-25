@@ -36,7 +36,7 @@ Hi there! I'm **Nehal Marshal Lopes**, a passionate and versatile software devel
 ---
 
 ## 🌟 Certifications:
-- Oracle Cloud Infrastructure Foundations 2021 Associate.
+- Oracle Cloud Infrastructure Foundations 2021 Associate
 
 ---
 
