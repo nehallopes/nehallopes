@@ -5,7 +5,7 @@ Hi there! I'm **Nehal Marshal Lopes**, a passionate and versatile software devel
 ---
 
 ## 🚀 About Me:
-- 🌍 Based in Chicago, IL, I recently graduated with a **Master of Science in Computer Science** from **DePaul University**.
+- 🎓 Graduated with a **Master of Science in Computer Science** from **DePaul University**.
 - 💼 Experienced in developing applications using modern technologies such as **React.js**, **Spring Boot**, **Node.js**, **SQL**, and **AWS**.
 - 🔍 Focused on **API integration**, **scalable cloud solutions**, and **CI/CD pipelines**.
 - 🤝 Open to collaborating on exciting projects in **Android/iOS development**, **web development**, and **backend engineering**.
@@ -29,21 +29,14 @@ Hi there! I'm **Nehal Marshal Lopes**, a passionate and versatile software devel
 ## 🛠️ Tech Stack:
 - **Programming Languages:** Java, JavaScript, Python, SQL, Swift, HTML, CSS, PHP
 - **Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, Bootstrap
-- **Cloud & DevOps:** AWS (EC2, RDS), Docker, CI/CD (Jenkins)
+- **Cloud & DevOps:** AWS, Docker, Jenkins
 - **Databases:** Oracle SQL, MySQL, PostgreSQL, MongoDB
 - **Tools:** VS Code, Android Studio, Xcode, Oracle SQL Developer, Git, GitHub, Postman, Figma, ServiceNow, Jira, Confluence
 - **Software Development Practices:** Agile methodologies, Microservices Architecture, SOLID Principles, CI/CD pipelines, Code Reviews  
 ---
 
-## 🌟 Certifications:
-- Oracle Cloud Infrastructure Foundations 2021 Associate
-
----
-
 ## 🤝 Let's Connect:
 - **LinkedIn:** [linkedin.com/in/nehal-marshal-lopes](https://linkedin.com/in/nehal-marshal-lopes)
-- **Portfolio:** [nehallopes.github.io/portfolio](https://nehallopes.github.io/portfolio)
-
 ---
 
 ### Thank you for visiting my GitHub! Feel free to explore my repositories and collaborate on exciting projects. Let’s build something amazing together! 🚀
